@@ -1,0 +1,102 @@
+ name: Bug report
+  description: Report something that is not working correctly in ClipKip.
+  title: "[Bug]: "
+  labels: ["bug"]
+  body:
+    - type: markdown
+      attributes:
+        value: |
+          Thanks for reporting a bug.
+
+          Do not include license keys, payment details, email addresses, order
+  IDs, or private account information here.
+          For private support, email support@clipkip.com.
+
+    - type: textarea
+      id: summary
+      attributes:
+        label: What happened?
+        description: Briefly describe the issue.
+        placeholder: Example: The backend stays offline after installing the
+  Windows app.
+      validations:
+        required: true
+
+    - type: dropdown
+      id: platform
+      attributes:
+        label: Operating system
+        options:
+          - Windows
+          - macOS Apple Silicon
+          - macOS Intel
+          - Linux
+          - Other
+      validations:
+        required: true
+
+    - type: input
+      id: app-version
+      attributes:
+        label: ClipKip version
+        description: You can find this in Settings.
+        placeholder: "1.0.0"
+      validations:
+        required: true
+
+    - type: dropdown
+      id: plan
+      attributes:
+        label: Plan
+        options:
+          - Free
+          - Standard
+          - Pro
+          - Not sure
+      validations:
+        required: false
+
+    - type: textarea
+      id: steps
+      attributes:
+        label: Steps to reproduce
+        description: What should we do to see the same issue?
+        placeholder: |
+          1. Open ClipKip
+          2. Paste a YouTube link
+          3. Click Download
+          4. See error
+      validations:
+        required: true
+
+    - type: textarea
+      id: expected
+      attributes:
+        label: Expected behavior
+        placeholder: What did you expect to happen?
+      validations:
+        required: true
+
+    - type: textarea
+      id: actual
+      attributes:
+        label: Actual behavior
+        placeholder: What actually happened?
+      validations:
+        required: true
+
+    - type: textarea
+      id: screenshots
+      attributes:
+        label: Screenshots or screen recording
+        description: Optional, but very helpful.
+      validations:
+        required: false
+
+    - type: textarea
+      id: extra
+      attributes:
+        label: Extra details
+        description: Add anything else that may help.
+      validations:
+        required: false
