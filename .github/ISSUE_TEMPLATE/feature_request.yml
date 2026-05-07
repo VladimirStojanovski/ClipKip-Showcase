@@ -11,8 +11,7 @@ name: Feature request
       attributes:
         label: What problem would this solve?
         description: Describe the workflow, frustration, or missing capability.
-        placeholder: Example: I want to edit multiple folders without starting
-  separate jobs.
+        placeholder: Example: I want to edit multiple folders without starting separate jobs.
       validations:
         required: true
 
