@@ -5,12 +5,7 @@ name: Feature request
   body:
     - type: markdown
       attributes:
-        value: Thanks for suggesting an improvement.
-
-          Do not include license keys, payment details, email addresses, order
-  IDs, or private account information here.
-          For private support, email support@clipkip.com.
-
+        value: Thanks for suggesting an improvement. Do not include license keys, payment details, email addresses, order IDs, or private account information here. For private support, email support@clipkip.com.
     - type: textarea
       id: problem
       attributes:
