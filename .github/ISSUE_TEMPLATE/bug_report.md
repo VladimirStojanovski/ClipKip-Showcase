@@ -1,38 +1,61 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+about: Report something that is not working correctly in ClipKip
+title: "[Bug]: "
+labels: bug
 assignees: ''
-
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+  ## Before You Submit
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+  Do not include license keys, payment details, email addresses, order IDs, or
+  private account information here.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+  For private support, email support@clipkip.com.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+  ## What Happened?
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+  Describe the issue clearly.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+  ## Steps To Reproduce
 
-**Additional context**
-Add any other context about the problem here.
+  1.
+  2.
+  3.
+
+  ## Expected Behavior
+
+  What did you expect to happen?
+
+  ## Actual Behavior
+
+  What actually happened?
+
+  ## ClipKip Version
+
+  You can find this in ClipKip Settings.
+
+  1.0.0
+
+  ## Operating System
+
+  - [ ] Windows
+  - [ ] macOS Apple Silicon
+  - [ ] macOS Intel
+  - [ ] Linux
+  - [ ] Other
+
+  ## Plan
+
+  - [ ] Free
+  - [ ] Standard
+  - [ ] Pro
+  - [ ] Not sure
+
+  ## Screenshots Or Recording
+
+  Attach screenshots or a short screen recording if helpful.
+
+  ## Extra Details
+
+  Add anything else that may help reproduce or understand the issue.
