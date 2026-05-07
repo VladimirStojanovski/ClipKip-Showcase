@@ -21,8 +21,8 @@
 
   Need help or found a problem?
 
-  - **Bug reports:** [Report a bug](../../issues/new?template=bug_report.yml)
-  - **Feature requests:** [Request a feature](../../issues/new?template=feature_request.yml)
+  - **Bug reports:** [Report a bug](https://github.com/VladimirStojanovski/ClipKip-Showcase/issues/new?template=bug_report.yml)
+  - **Feature requests:** [Request a feature](https://github.com/VladimirStojanovski/ClipKip-Showcase/issues/new?template=feature_request.yml)
   - **Private support:** support@clipkip.com
 
   Please do not post license keys, payment details, order IDs, email addresses,
