@@ -1,20 +1,47 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+about: Suggest an improvement or new feature for ClipKip
+title: "[Feature]: "
+labels: enhancement
 assignees: ''
-
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+  ## Before You Submit
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+  Do not include license keys, payment details, email addresses, order IDs, or
+  private account information here.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+  For private support, email support@clipkip.com.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+  ## What Problem Would This Solve?
+
+  Describe the workflow, frustration, or missing capability.
+
+  ## What Would You Like ClipKip To Do?
+
+  Describe the feature or change you want.
+
+  ## Area
+
+  - [ ] Downloads
+  - [ ] Browse & select
+  - [ ] Library
+  - [ ] Editor
+  - [ ] Licensing
+  - [ ] Settings
+  - [ ] Installer / updates
+  - [ ] Other
+
+  ## Importance
+
+  - [ ] Nice to have
+  - [ ] Important
+  - [ ] Blocking my workflow
+
+  ## Alternatives You Tried
+
+  Optional.
+
+  ## Extra Context
+
+  Add screenshots, examples, or any other context if helpful.
