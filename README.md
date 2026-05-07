@@ -17,6 +17,17 @@
   - Windows
   - Linux
 
+  ## Support and Feedback
+
+  Need help or found a problem?
+
+  - **Bug reports:** [Report a bug](../../issues/new?template=bug_report.yml)
+  - **Feature requests:** [Request a feature](../../issues/new?template=feature_request.yml)
+  - **Private support:** support@clipkip.com
+
+  Please do not post license keys, payment details, order IDs, email addresses,
+  or private account information in public GitHub issues.
+
   ## What ClipKip Does
 
   ClipKip helps you quickly save videos from supported platforms and keep them
